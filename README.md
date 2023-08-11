@@ -16,9 +16,9 @@ Welcome to my Github! I'm a web developer with a passion for creating elegant an
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/project1): A web application for tracking personal finances.
-- [Project 2](https://github.com/project2): A social media platform for pet owners to connect with each other.
-- [Project 3](https://github.com/project3): An e-commerce website for selling handmade crafts.
+- [Project 1](https://www.sweetkiwiyogurt.com): A website for frozen yougurt company
+- [Project 2](https://www.naijafootstore.com): An e-commerce website for selling handmade footwear.
+- [Project 3](http://jewelrybytemi.com): An e-commerce website for selling jewelry.
 
 ## Contributions
 
