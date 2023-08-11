@@ -22,10 +22,7 @@ Here are some of the projects I've worked on:
 
 ## Contributions
 
-I'm open to contributing to open source projects. Here are some of my contributions:
-
-- [Contribution 1](https://github.com/someproject/contribution1): Fixed a bug related to user authentication.
-- [Contribution 2](https://github.com/someproject/contribution2): Added a new feature that improved user experience.
+I'm open to contributing to open source projects.
 
 ## Contact
 
